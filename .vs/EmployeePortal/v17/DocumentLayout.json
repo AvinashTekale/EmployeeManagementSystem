@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\tekal\\onedrive\\desktop\\employee_management_system\\employeeportal\\employeeportal\\repositry\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\repositry\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\tekal\\onedrive\\desktop\\employee_management_system\\employeeportal\\employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\tekal\\onedrive\\desktop\\employee_management_system\\employeeportal\\employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\tekal\\onedrive\\desktop\\employee_management_system\\employeeportal\\employeeportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\tekal\\onedrive\\desktop\\employee_management_system\\employeeportal\\employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08058822-E0B0-4D55-8EA6-6D01D5B54F37}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\Repositry\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Repositry\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\Repositry\\EmployeeRepository.cs*",
+              "RelativeToolTip": "EmployeePortal\\Repositry\\EmployeeRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:45:35.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeePortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\appsettings.json*",
+              "RelativeToolTip": "EmployeePortal\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T07:37:25.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "EmployeePortal\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:34:49.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeePortal\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:31:44.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Program.cs",
+              "ToolTip": "C:\\Users\\tekal\\OneDrive\\Desktop\\employee_management_system\\EmployeePortal\\EmployeePortal\\Program.cs*",
+              "RelativeToolTip": "EmployeePortal\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:26:24.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
